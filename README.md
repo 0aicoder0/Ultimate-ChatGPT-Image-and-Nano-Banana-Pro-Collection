@@ -1,9 +1,9 @@
-# Ultimate Nano Banana Collection 🍌
+# Ultimate ChatGPT Image 2.0 & Nano Banana Pro Collection 🍌🤖
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> A curated prompt library for Nano Banana Pro. Organized by category—3D miniatures, product photography, portraits, fashion, and more. Copy, paste, create.
+> A curated prompt library for ChatGPT Image 2.0 & Nano Banana Pro. Organized by category—3D miniatures, product photography, portraits, fashion, and more. Copy, paste, create.
 
 
 
@@ -34,7 +34,7 @@
 
 ## 1. 🏙️ 3D Miniatures & Dioramas
 
-> 40 curated nano banana prompts for 3d miniatures & dioramas.
+> 40 curated ChatGPT Image 2.0 & nano banana prompts for 3d miniatures & dioramas.
 
 
 ### 1.1. 3D Render: Whimsical Miniature Starbucks Coffee Shop Scene
@@ -626,7 +626,7 @@ Composition rules: All architectural detail remains strictly inside the ribbon s
 
 ## 2. 📦 Product Photography
 
-> 61 curated nano banana prompts for product photography.
+> 61 curated ChatGPT Image 2.0 & nano banana prompts for product photography.
 
 
 ### 2.1. Thor's Hand Grips Electrified Sprite Bottle in Storm
@@ -743,7 +743,7 @@ A photorealistic image features an Eames-style brown leather lounge chair displa
 "lighting_rule": "soft directional studio light, strong material definition"
 }
 
-#nanobanana #NanoBananaPro #Prompt #IdeaGeneration
+#ChatGPTImage2 #ChatGPTImage2Pro #nanobanana #NanoBananaPro #Prompt #IdeaGeneration
 ```
 
 **Source:** [ttmouse - 豆爸](https://x.com/ttmouse/status/2003588959310660073)
@@ -762,7 +762,7 @@ A close-up shot features a woman with dark hair and natural makeup, holding a vi
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "photorealistic_product_beauty_macro",
       "version": "v1.0",
       "priority": "high"
@@ -895,7 +895,7 @@ A close-up collage features a beautiful woman with dark wavy hair and vibrant re
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "text_to_image_ultra_photoreal_beauty_contact_sheet_product_campaign",
       "version": "v1.1",
       "priority": "high"
@@ -1656,7 +1656,7 @@ A photorealistic image depicts a modern smartphone standing upright on a wooden 
 
 ## 3. 🎭 Character Design
 
-> 32 curated nano banana prompts for character design.
+> 32 curated ChatGPT Image 2.0 & nano banana prompts for character design.
 
 
 ### 3.1. Fashion Design: Layering, Texture & Sheer Fabric Diagram
@@ -2135,7 +2135,7 @@ A stunning watercolor painting captures a beautiful woman in traditional attire,
 
 ## 4. 🍽️ Food & Culinary
 
-> 21 curated nano banana prompts for food & culinary.
+> 21 curated ChatGPT Image 2.0 & nano banana prompts for food & culinary.
 
 
 ### 4.1. Dynamic Chocolate Chip Cookies & Milk Splash Food Photo
@@ -2503,9 +2503,9 @@ An overhead flat lay photograph captures four people gathered around a vibrant r
 **Prompt:**
 
 ```
-Exploring more of Nano Banana Pro’s potential. Turning brands into scroll-stopping visuals.
+Exploring more of ChatGPT Image 2.0 & Nano Banana Pro’s potential. Turning brands into scroll-stopping visuals.
 
-Generated with Nano Banana Pro on @higgsfield_ai
+Generated with ChatGPT Image 2.0 & Nano Banana Pro on @higgsfield_ai
 
 - Prompt 
 Ultra-wide-angle hyper-realistic top-down flat lay photography. A group of 4 real people sitting around a square dining table. The camera is pulled far back, creating significant negative space (empty floor area) around the people and the table, ensuring a clean, minimalist composition. The scene is [VIBE & ATTIRE]: The four people are dressed in [CLOTHING STYLE]. Their interactions are specific: [DESCRIBE ACTION OF EACH PERSON].
@@ -2589,7 +2589,7 @@ This image showcases a 'Culinary Atlas' featuring four open books, each detailin
 **Prompt:**
 
 ```
-Nano Banana Pro vs. GPT Image 1.5 for my food recommendation prompt. Just give it a couple of ingredients. 
+ChatGPT Image 2.0 & Nano Banana Pro vs. GPT Image 1.5 for my food recommendation prompt. Just give it a couple of ingredients. 
 
 <instruction>
 Inputs: Ingredients = [User Choice, e.g., Chicken, Bacon]
@@ -2672,7 +2672,7 @@ Output: 1 x 1:1 image, rustic gourmet photography.
 
 ## 5. 🚀 Fantasy & Sci-Fi
 
-> 28 curated nano banana prompts for fantasy & sci-fi.
+> 28 curated ChatGPT Image 2.0 & nano banana prompts for fantasy & sci-fi.
 
 
 ---
@@ -2831,7 +2831,7 @@ A detailed, hand-drawn fantasy map illustrates 'The Career Journey of Alisa Fort
 **Prompt:**
 
 ```
-Prompt tip: Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a simple prompt.
+Prompt tip: Download your LinkedIn profile is a PDF and give it to ChatGPT Image 2.0 & Nano Banana Pro with a simple prompt.
 ```
 
 **Source:** [Alisa Fortin](https://x.com/alisa_fortin/status/1992049339511030009)
@@ -2889,7 +2889,7 @@ A detailed thermal X-ray orthographic view of an Android robot, showcasing its g
 The Google Android robot, presented in a high-contrast scientific studio render against a pure black void. This tight right-side profile features a false-color thermal X-ray aesthetic, where the transparent shell reveals a sharply detailed internal architecture of batteries, drivers, and sensors using a vibrant heatmap gradient. The colors shift from deep cool blues to intense yellows and red highlights, creating a futuristic, clinical look with orthographic perspective and a soft, neon-like glow.
 ```
 
-**Source:** [Nano Banana Pro](https://x.com/NanoBanana/status/1997085645538472118)
+**Source:** [ChatGPT Image 2.0 & Nano Banana Pro](https://x.com/NanoBanana/status/1997085645538472118)
 
 ---
 
@@ -2983,7 +2983,7 @@ Focus on the weave of the canvas suit and the scratches on the helmet.
 
 ## 6. ⚽ Sports & Action
 
-> 28 curated nano banana prompts for sports & action.
+> 28 curated ChatGPT Image 2.0 & nano banana prompts for sports & action.
 
 
 ### 6.1. Woman Post-Workout Hydration | Fitness & Gym Scene
@@ -3658,14 +3658,14 @@ Present prompts like this:
 
 ## How to Use
 1. Copy entire JSON prompt
-2. Paste into AI image generator (Grok, Nano Banana, ChatGPT Image, etc.)
+2. Paste into AI image generator (Grok, ChatGPT Image 2.0 & Nano Banana, ChatGPT Image, etc.)
 3. If user uploaded product image, attach it to generator
 4. Generate image
 5. Try 3-5 variations for best results
 
 **Tips:**
 - Use prompts exactly as provided
-- These work best in advanced generators (Grok, ChatGPT, Nano Banana)
+- These work best in advanced generators (Grok, ChatGPT, ChatGPT Image 2.0 & Nano Banana)
 - "preserve_original": true works best with multiple attempts
 ```
 
@@ -3680,7 +3680,7 @@ Act as expert photographer:
 ✗ "This prompt includes gym lighting specifications"
 
 Guide efficiently:
-✓ "Copy the JSON into Nano Banana and generate"
+✓ "Copy the JSON into ChatGPT Image 2.0 & Nano Banana and generate"
 ✗ "So what you'll need to do is first copy the entire JSON structure..."
 
 ## Example Prompts for Reference
@@ -4754,7 +4754,7 @@ A fit woman in black athletic wear is shown in a three-panel image performing va
 
 ## 7. 🌃 Urban Cityscapes
 
-> 17 curated nano banana prompts for urban cityscapes.
+> 17 curated ChatGPT Image 2.0 & nano banana prompts for urban cityscapes.
 
 
 ### 7.1. Cozy Autumn Couple Illustration in City Street Scene
@@ -5027,7 +5027,7 @@ A detailed 3D render of a bustling narrow night market alley, with rain-wet cobb
 **Prompt:**
 
 ```
-open source prompt to 3D. create and explore entire worlds with your imagination using nano banana.
+open source prompt to 3D. create and explore entire worlds with your imagination using ChatGPT Image 2.0 & nano banana.
 
 https://sharp-ml.vercel.app
 
@@ -5141,7 +5141,7 @@ Prompt
 
 ## 8. 🏛️ Architecture & Interiors
 
-> 22 curated nano banana prompts for architecture & interiors.
+> 22 curated ChatGPT Image 2.0 & nano banana prompts for architecture & interiors.
 
 
 ### 8.1. AR Interior Design: Industrial Modern Living Room on Phone
@@ -5157,7 +5157,7 @@ People are finding insane ways to create 3D renderings, impossible shots, and ul
 
 10 examples + prompt. Bookmark this 
 
-1. Nano banana -> World Labs -> WebAR (threejs)
+1. ChatGPT Image 2.0 & Nano banana -> World Labs -> WebAR (threejs)
 ```
 
 **Source:** [Min Choi](https://x.com/minchoi/status/1998983872718176660)
@@ -5276,7 +5276,7 @@ A bright, empty living room features light green walls, a bay window overlooking
 Show me how this room would look with furniture in it
 ```
 
-**Source:** [Nano Banana Pro](https://x.com/NanoBanana/status/1994483569625022487)
+**Source:** [ChatGPT Image 2.0 & Nano Banana Pro](https://x.com/NanoBanana/status/1994483569625022487)
 
 ---
 
@@ -5291,7 +5291,7 @@ A bright and elegant luxury home interior showcases a warm entryway with a light
 ```
 Did some experimenting and figured out the workflow for AI design transformations: 
 
-Start with a base image of a room with no furniture. Then prompt on Nano Banana Pro to add what you'd like (e.g. a cool door frame, loft, or pool). 
+Start with a base image of a room with no furniture. Then prompt on ChatGPT Image 2.0 & Nano Banana Pro to add what you'd like (e.g. a cool door frame, loft, or pool). 
 
 Take to Veo 3.1 as your start and end frames.
 
@@ -5311,7 +5311,7 @@ A comprehensive grid showcases 16 distinct living room interior designs, featuri
 **Prompt:**
 
 ```
-nano banana pro for interior design mood boards. 16 styles, same space, one prompt
+ChatGPT Image 2.0 & nano banana pro for interior design mood boards. 16 styles, same space, one prompt
 
 prompt (at the end of the conversation): https://claude.ai/share/4b94f588-c6ae-47d7-9b42-9d95a4df4fbd…
 ```
@@ -5350,7 +5350,7 @@ A detailed oil painting depicts an art studio interior showcasing an infinite lo
 **Prompt:**
 
 ```
-A shorthand prompt you can use to make recursive images with Nano Banana Pro is "Droste effect".
+A shorthand prompt you can use to make recursive images with ChatGPT Image 2.0 & Nano Banana Pro is "Droste effect".
 
 > Droste effect without photography or people
 ```
@@ -5368,11 +5368,11 @@ A photorealistic image of the iconic Taj Mahal at sunrise, featuring its majesti
 **Prompt:**
 
 ```
-Nano Banana Pro just measured the Taj Mahal's dimensions with near-perfect precision.
+ChatGPT Image 2.0 & Nano Banana Pro just measured the Taj Mahal's dimensions with near-perfect precision.
 
 SOTA image generation that understands engineering drawings, technical specs, and real-world measurements.
 
-I built a prompt that converts any photo into an engineering-grade schematic inside Nano Banana Pro on @higgsfield_ai for free.
+I built a prompt that converts any photo into an engineering-grade schematic inside ChatGPT Image 2.0 & Nano Banana Pro on @higgsfield_ai for free.
 
 Want the prompt?
 Follow, like, repost, and comment “Prompt”.
@@ -5394,7 +5394,7 @@ A cream-colored residential building with arched windows and a large paved front
 **Prompt:**
 
 ```
-في البداية خذ صورة مثل الأولى ، ثم استخدم (Nano Banana Pro) واكتب هذه المطالبة (Prompt):
+في البداية خذ صورة مثل الأولى ، ثم استخدم (ChatGPT Image 2.0 & Nano Banana Pro) واكتب هذه المطالبة (Prompt):
 
  "غير واجهة المبنى إلى واجهة مودرن جميلة، وأضف مسبحاً وجلسة خارجية في الحوش".
 
@@ -5413,7 +5413,7 @@ A cream-colored residential building with arched windows and a large paved front
 
 ## 9. 🏔️ Nature & Landscapes
 
-> 16 curated nano banana prompts for nature & landscapes.
+> 16 curated ChatGPT Image 2.0 & nano banana prompts for nature & landscapes.
 
 
 ### 9.1. Miniature Man Resting on Plant Seedling - Photorealistic
@@ -5582,7 +5582,7 @@ A photorealistic image captures a capuchin monkey wearing headphones, sitting in
 **Prompt:**
 
 ```
-Nano Banana Pro is FREE for 365 days on invideo - and unlimited - for all paid-plan signups before Nov 27.
+ChatGPT Image 2.0 & Nano Banana Pro is FREE for 365 days on invideo - and unlimited - for all paid-plan signups before Nov 27.
 
 RT + comment “Banana” for a shot at our highest plan + $1000 credits. Okay, now go lose your bananas.
 ```
@@ -5618,7 +5618,7 @@ A whimsical dragon figure crafted from dry brown autumn leaves rests on a vibran
 **Prompt:**
 
 ```
-wow, you don’t need long, detailed prompts to make something amazing on Nano Banana Pro!
+wow, you don’t need long, detailed prompts to make something amazing on ChatGPT Image 2.0 & Nano Banana Pro!
 
 Prompt : A photorealistic image of a leaf that looks like it’s in the shape of a dragon.
 ```
@@ -5636,7 +5636,7 @@ A breathtaking landscape photo capturing a dramatic sky filled with dark, turbul
 **Prompt:**
 
 ```
-Prompt on Nano Banana Pro : A dramatic sky photo where swirling storm clouds naturally form the unmistakable shape of a [SUBJECT]. The illusion should be “found shape”: at first it’s just clouds; then the creature silhouette pops out. Realistic lighting: sun rays breaking through, volumetric beams, deep contrast. No fantasy glow, pure cloud structure forming the subject. High resolution, cinematic, awe-inspiring.
+Prompt on ChatGPT Image 2.0 & Nano Banana Pro : A dramatic sky photo where swirling storm clouds naturally form the unmistakable shape of a [SUBJECT]. The illusion should be “found shape”: at first it’s just clouds; then the creature silhouette pops out. Realistic lighting: sun rays breaking through, volumetric beams, deep contrast. No fantasy glow, pure cloud structure forming the subject. High resolution, cinematic, awe-inspiring.
 ```
 
 **Source:** [Umesh](https://x.com/umesh_ai/status/2000879410308899138)
@@ -5652,7 +5652,7 @@ An aerial, photorealistic view captures a sprawling suburban landscape filled wi
 **Prompt:**
 
 ```
-2) Feed to Nano Banana Pro, prompt "hand-drawn urban planning map"
+2) Feed to ChatGPT Image 2.0 & Nano Banana Pro, prompt "hand-drawn urban planning map"
 ```
 
 **Source:** [Evan Applegate](https://x.com/youwillmakemaps/status/1998452941871874406)
@@ -5661,7 +5661,7 @@ An aerial, photorealistic view captures a sprawling suburban landscape filled wi
 
 ## 10. 🎨 Logo & Branding
 
-> 14 curated nano banana prompts for logo & branding.
+> 14 curated ChatGPT Image 2.0 & nano banana prompts for logo & branding.
 
 
 ### 10.1. Elegant Script Logo Redesigns: Lacoste, Tesla, Ferrari
@@ -5709,7 +5709,7 @@ A vibrant Google search page is displayed within a minimalist web browser interf
 A screenshot of the Google home page with a banana Google doodle, change I'm feeling lucky to be "Go bananas". No monkeys.
 ```
 
-**Source:** [Nano Banana Pro](https://x.com/NanoBanana/status/1991987708840026131)
+**Source:** [ChatGPT Image 2.0 & Nano Banana Pro](https://x.com/NanoBanana/status/1991987708840026131)
 
 ---
 
@@ -5809,11 +5809,11 @@ Prompt below
 
 ---
 
-### 10.10. Awesome Nano Banana Pro: Nano Banana Prompts & Image Generation
+### 10.10. Awesome ChatGPT Image 2.0 & Nano Banana Pro: ChatGPT Image 2.0 & Nano Banana Prompts & Image Generation
 
-![Awesome Nano Banana Pro: Nano Banana Prompts & Image Generation](https://pbs.twimg.com/media/G9qHZgvakAAuKrB.jpg)
+![Awesome ChatGPT Image 2.0 & Nano Banana Pro: ChatGPT Image 2.0 & Nano Banana Prompts & Image Generation](https://pbs.twimg.com/media/G9qHZgvakAAuKrB.jpg)
 
-A dark-themed webpage screenshot features the title 'Awesome Nano Banana Pro' with a prominent banana emoji, accompanied by 'awesome', 'License CC BY 4.0', and 'Stars 6.7k' badges. The text details a curated collection of high-fidelity 'Nano Banana prompts' and image generation styles for advanced AI visual experiments, covering photorealistic portraits and stylized aesthetics.
+A dark-themed webpage screenshot features the title 'Awesome ChatGPT Image 2.0 & Nano Banana Pro' with a prominent banana emoji, accompanied by 'awesome', 'License CC BY 4.0', and 'Stars 6.7k' badges. The text details a curated collection of high-fidelity 'ChatGPT Image 2.0 & Nano Banana prompts' and image generation styles for advanced AI visual experiments, covering photorealistic portraits and stylized aesthetics.
 
 **Prompt:**
 
@@ -5827,7 +5827,7 @@ Go grab it.
 
 ## 11. 📻 Vintage & Retro
 
-> 13 curated nano banana prompts for vintage & retro.
+> 13 curated ChatGPT Image 2.0 & nano banana prompts for vintage & retro.
 
 
 ### 11.1. Apollo 11 Lunar Module LM-5 Eagle Blueprint & Moon Render
@@ -5877,7 +5877,7 @@ A black Canon digital camera is held, displaying a captivating portrait of a you
 ```
 Close-up, top-down shot of a black early 2000s compact digital camera resting on textured blue denim fabric. The rear LCD screen is illuminated, displaying a lo-fi, grainy, flash-lit selfie of a young woman. Subject on screen has dark wavy hair, heavy Y2K-style pink blush on cheeks and nose, winged eyeliner, and glossy lips, looking over her shoulder with a soft gaze. The camera body has visible buttons and a directional pad. Shallow depth of field with focus sharp on the LCD screen and slightly blurred edges.
 ———————————————
-Nano Banana Pro is unlimited for a year for everyone joining @higgsfield_ai. Less than a day left, don’t miss it.
+ChatGPT Image 2.0 & Nano Banana Pro is unlimited for a year for everyone joining @higgsfield_ai. Less than a day left, don’t miss it.
 ```
 
 **Source:** [ΛRMIN | AI](https://x.com/Arminn_Ai/status/1994049675163205921)
@@ -5911,7 +5911,7 @@ A vibrant, high-resolution display of a complete seventy-eight-card Tarot deck, 
 **Prompt:**
 
 ```
-trying to push nano banana pro to its limits. asked for a complete 78-card tarot deck. one prompt. it delivered
+trying to push ChatGPT Image 2.0 & nano banana pro to its limits. asked for a complete 78-card tarot deck. one prompt. it delivered
 ```
 
 **Source:** [gokaygokay](https://x.com/gokayfem/status/2003237826331378093)
@@ -5946,7 +5946,7 @@ A sepia-toned vintage photograph captures two women, one standing and one seated
 ```
 Imagine you are a professional photo restorer. Restore this photo perfectly. Make it sharp and improve resolution. Get rid of scratches. Make it a way it would look if it was taken now. 
 
-Photo of my great-grandmother. I use Nano Banana Pro in Adobe Firefly app.
+Photo of my great-grandmother. I use ChatGPT Image 2.0 & Nano Banana Pro in Adobe Firefly app.
 ```
 
 **Source:** [Kris Kashtanova](https://x.com/icreatelife/status/1993307937851249076)
@@ -6003,7 +6003,7 @@ A flash photography snapshot taken on a disposable camera in 1998. A man at a ch
 
 ## 12. 🎬 Cinematic Posters
 
-> 17 curated nano banana prompts for cinematic posters.
+> 17 curated ChatGPT Image 2.0 & nano banana prompts for cinematic posters.
 
 
 ### 12.1. Romantic Comedy Poster: How to Lose a Guy in 10 Days
@@ -6047,7 +6047,7 @@ A man and woman are captured in a passionate embrace, standing close in the heav
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "text_to_image_photoreal_movie_poster_notebook_style_title_only",
       "version": "v1.0",
       "priority": "high"
@@ -6219,11 +6219,11 @@ A dramatic cinematic shot captures a historical public gathering in front of the
 
 ---
 
-### 12.5. Nano Banana AI Prompt Generator for Cinematic UFC Photos
+### 12.5. ChatGPT Image 2.0 & Nano Banana AI Prompt Generator for Cinematic UFC Photos
 
-![Nano Banana AI Prompt Generator for Cinematic UFC Photos](https://pbs.twimg.com/amplify_video_thumb/1970192305375363073/img/IEUWwE75t1IL0uHG.jpg)
+![ChatGPT Image 2.0 & Nano Banana AI Prompt Generator for Cinematic UFC Photos](https://pbs.twimg.com/amplify_video_thumb/1970192305375363073/img/IEUWwE75t1IL0uHG.jpg)
 
-A screenshot of the 'Nano Banana Prompt Generator' application in dark mode, showcasing a detailed AI prompt for a cinematic UFC photo. The prompt describes a tunnel walkout scene featuring Conor McGregor, his crew in specific hoodies, paparazzi, and emphasizes using best practices of a cinematographer and photographer, all against a vibrant desktop background.
+A screenshot of the 'ChatGPT Image 2.0 & Nano Banana Prompt Generator' application in dark mode, showcasing a detailed AI prompt for a cinematic UFC photo. The prompt describes a tunnel walkout scene featuring Conor McGregor, his crew in specific hoodies, paparazzi, and emphasizes using best practices of a cinematographer and photographer, all against a vibrant desktop background.
 
 **Prompt:**
 
@@ -6294,7 +6294,7 @@ A vibrant cinematic poster for 'Tomb Raider: The Lost Valley' showcases Lara Cro
 **Prompt:**
 
 ```
-Will probably get yelled at for this, but this was a single Nano Banana prompt without using the original uploaded as a reference
+Will probably get yelled at for this, but this was a single ChatGPT Image 2.0 & Nano Banana prompt without using the original uploaded as a reference
 ```
 
 **Source:** [Paul Tassi](https://x.com/PaulTassi/status/1999158619020181607)
@@ -6336,7 +6336,7 @@ His face looked tired and tense, slightly dirty with wounds on his face and legs
 
 ## 13. 🎌 Anime & Manga
 
-> 9 curated nano banana prompts for anime & manga.
+> 9 curated ChatGPT Image 2.0 & nano banana prompts for anime & manga.
 
 
 ### 13.1. Japan City Life Anime Art: Urban Exploration & Travel
@@ -6578,7 +6578,7 @@ A vibrant anime-style comic strip depicts three cheerful female VTuber character
 **Prompt:**
 
 ```
-nano banana pro
+ChatGPT Image 2.0 & nano banana pro
 ```
 
 **Source:** [Iリス@pixai](https://x.com/loveko28516/status/1997942976270741580)
@@ -6594,10 +6594,10 @@ A bustling coffee shop is filled with customers and staff, creating a vibrant at
 **Prompt:**
 
 ```
-With Nano Banana Pro it's easy to combine different styles in a single image. In this photo we've included an anime character, a sketched character and a claymation one, all with just a prompt.
+With ChatGPT Image 2.0 & Nano Banana Pro it's easy to combine different styles in a single image. In this photo we've included an anime character, a sketched character and a claymation one, all with just a prompt.
 ```
 
-**Source:** [Nano Banana Pro](https://x.com/NanoBanana/status/1997971252858982531)
+**Source:** [ChatGPT Image 2.0 & Nano Banana Pro](https://x.com/NanoBanana/status/1997971252858982531)
 
 ---
 
@@ -6610,7 +6610,7 @@ A vibrant anime comic strip captures a humorous scene with four Hololive VTubers
 **Prompt:**
 
 ```
-nano banana pro
+ChatGPT Image 2.0 & nano banana pro
 ```
 
 **Source:** [Iリス@pixai](https://x.com/loveko28516/status/2000503643167191327)
@@ -6626,11 +6626,11 @@ A vibrant comic book page depicts a diverse group of young adventurers embarking
 **Prompt:**
 
 ```
-Nano Banana Pro & MULTIPLE characters in ONE comics generation with a storyline! 
+ChatGPT Image 2.0 & Nano Banana Pro & MULTIPLE characters in ONE comics generation with a storyline! 
 
 Watch this prompt 
 
-For the next 48 hours ONLY - get 1 Year UNLIMITED Nano Banana Pro on Higgsfield!
+For the next 48 hours ONLY - get 1 Year UNLIMITED ChatGPT Image 2.0 & Nano Banana Pro on Higgsfield!
 
 For 12 hours: follow, like, retweet & comment = FREE 100 credits
 ```
@@ -6727,7 +6727,7 @@ A vibrant whiteboard diagram outlines Gemini 3 prompting best practices and core
 ```
 Here are my Gemini 3 Prompting Best Practices for General Usage. https://philschmid.de/gemini-3-prompt-practices…
 
-- visualized by Nano Banana Pro
+- visualized by ChatGPT Image 2.0 & Nano Banana Pro
 ```
 
 **Source:** [Philipp Schmid](https://x.com/_philschmid/status/1992933770484392243)
@@ -6743,8 +6743,8 @@ A vibrant grid of pixel art icons depicting various fantasy spells and abilities
 **Prompt:**
 
 ```
-on November 21st Higgsfield granted FREE access to Google's Nano Banana Pro Image model.  
-#Higgsfield #HiggsfieldBanana #Nanobananapro #PR 
+on November 21st Higgsfield granted FREE access to Google's ChatGPT Image 2.0 & Nano Banana Pro Image model.  
+#ChatGPTImage2 #ChatGPTImage2Pro #Higgsfield #HiggsfieldBanana #Nanobananapro #PR 
 #インディーゲーム #Indiegame #kanaworksai
 ```
 
@@ -6761,7 +6761,7 @@ A detailed vector art diagram illustrating four distinct interleukin (IL-2, IL-4
 **Prompt:**
 
 ```
-I can’t get enough of Nano Banana Pro! The way it generates scientifically precise illustrations from simple prompts is nothing short of mind blowing! One of those true inflection points in the age of AI!
+I can’t get enough of ChatGPT Image 2.0 & Nano Banana Pro! The way it generates scientifically precise illustrations from simple prompts is nothing short of mind blowing! One of those true inflection points in the age of AI!
 
 Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 ```
@@ -6772,12 +6772,12 @@ Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 
 ## 15. ✨ Miscellaneous
 
-> 4 curated nano banana prompts for miscellaneous.
+> 4 curated ChatGPT Image 2.0 & nano banana prompts for miscellaneous.
 
 
-### 15.1. Nano banana pro
+### 15.1. ChatGPT Image 2.0 & Nano banana pro
 
-![Nano banana pro](https://pbs.twimg.com/media/G8TYIx5aoAAGL5n.jpg)
+![ChatGPT Image 2.0 & Nano banana pro](https://pbs.twimg.com/media/G8TYIx5aoAAGL5n.jpg)
 
 **Prompt:**
 
@@ -6913,9 +6913,9 @@ Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 
 ---
 
-### 15.2. Gemini Nano Banana Pro
+### 15.2. Gemini ChatGPT Image 2.0 & Nano Banana Pro
 
-![Gemini Nano Banana Pro](https://pbs.twimg.com/media/G8TX4SzWsAYokD-.jpg)
+![Gemini ChatGPT Image 2.0 & Nano Banana Pro](https://pbs.twimg.com/media/G8TX4SzWsAYokD-.jpg)
 
 **Prompt:**
 
@@ -6953,9 +6953,9 @@ Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 
 ---
 
-### 15.3. Gemini Nano Banana Pro
+### 15.3. Gemini ChatGPT Image 2.0 & Nano Banana Pro
 
-![Gemini Nano Banana Pro](https://pbs.twimg.com/media/G8DTqQUWsAM5FJx.jpg)
+![Gemini ChatGPT Image 2.0 & Nano Banana Pro](https://pbs.twimg.com/media/G8DTqQUWsAM5FJx.jpg)
 
 **Prompt:**
 
@@ -7044,9 +7044,9 @@ Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 
 ---
 
-### 15.4. Gemini Nano Banana Pro
+### 15.4. Gemini ChatGPT Image 2.0 & Nano Banana Pro
 
-![Gemini Nano Banana Pro](https://pbs.twimg.com/media/G8GDQ8SW8AEJ321.jpg)
+![Gemini ChatGPT Image 2.0 & Nano Banana Pro](https://pbs.twimg.com/media/G8GDQ8SW8AEJ321.jpg)
 
 **Prompt:**
 
@@ -7090,7 +7090,7 @@ The subject should appear bright and stand out clearly from the background.
 
 ## 16. 📸 Portrait Photography
 
-> 349 curated nano banana prompts for portrait photography.
+> 349 curated ChatGPT Image 2.0 & nano banana prompts for portrait photography.
 
 
 ### 16.1. Ana de Armas: Studio Portraits in Mini Dress, Natural Beauty
@@ -7338,7 +7338,7 @@ A smiling young couple looks down through a heart-shaped hole carved in fresh sn
 ```
 {
   "request_metadata": {
-    "tool": "Nano Banana Pro",
+    "tool": "ChatGPT Image 2.0 & Nano Banana Pro",
     "task_type": "photoreal_cinematic_poster_style_shoot",
     "quality_preset": "ultra",
     "aspect_ratio": "9:16"
@@ -7412,7 +7412,7 @@ A smiling young couple looks down through a heart-shaped hole carved in fresh sn
     "logo",
     "gibberish"æ{
   "request_metadata": {
-    "tool": "Nano Banana Pro",
+    "tool": "ChatGPT Image 2.0 & Nano Banana Pro",
     "task_type": "photoreal_cinematic_winter_scene_identity_lock",
     "quality_preset": "ultra",
     "aspect_ratio": "9:16"
@@ -7694,7 +7694,7 @@ A photorealistic portrait of an affectionate couple, where a man is seen kissing
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "photorealistic_couple_mirror_selfie_editorial",
       "version": "v2.0_PHONE_UI_MIRROR_SELFIE_COUPLE_LOCK",
       "priority": "highest"
@@ -7920,7 +7920,7 @@ A young woman with blonde hair and bangs smiles softly while lounging on a grey 
       "Hyper-detailed skin texture",
       "Subsurface scattering",
       "Volumetric lighting",
-      "Nano Banana Pro optimized",
+      "ChatGPT Image 2.0 & Nano Banana Pro optimized",
       "Masterpiece"
     ]
   }
@@ -8641,7 +8641,7 @@ A striking close-up photograph captures a woman's face with one eye closed, show
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "text_to_image_surreal_photoreal_concept_ad",
       "version": "v3.0_MASCARA_CLEANUP_CLIMBER_CONCEPT",
       "priority": "highest"
@@ -8817,7 +8817,7 @@ A joyful couple poses closely on the floor in front of a warmly lit Christmas tr
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "text_to_image_photoreal_couple_christmas_lifestyle",
       "version": "v1.1",
       "priority": "high"
@@ -9212,7 +9212,7 @@ A joyful couple poses for a selfie, with the man kissing the woman's cheek in on
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "photorealistic_multi_panel_grid",
       "version": "v1.0",
       "priority": "high"
@@ -9313,7 +9313,7 @@ An overhead shot captures a happy couple lying in fresh white snow, creating sno
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "photoreal_cinematic_winter_couple_snow_heart_close",
       "version": "v1.2_SNOW_HEART_COUPLE_FACE_VISIBLE_CLOSER",
       "priority": "highest"
@@ -9655,7 +9655,7 @@ A striking outdoor portrait captures a young blonde woman in a vibrant red strap
 {
   "meta": {
     "project": "Night_Elegance_RedDress_Blonde_Flux_V5.2",
-    "target_engine": "Flux.1 [dev] / Nano Banana Pro",
+    "target_engine": "Flux.1 [dev] / ChatGPT Image 2.0 & Nano Banana Pro",
     "version": "5.2.0 (Balanced Natural Beauty)",
     "created_at": "2025-12-26T03:45:00Z"
   },
@@ -10069,7 +10069,7 @@ A young woman with blonde hair and bangs, styled in a bun, kneels on a white sha
         "Hyper-detailed skin texture",
         "Masterpiece",
         "Sharp focus",
-        "Nano Banana Pro optimized",
+        "ChatGPT Image 2.0 & Nano Banana Pro optimized",
         "High fidelity",
         "Depth of field"
       ]
@@ -10866,7 +10866,7 @@ A multi-panel image captures Sadie Sink in a high-fashion photoshoot, showcasing
 
 ## 17. 👗 Fashion Photography
 
-> 196 curated nano banana prompts for fashion photography.
+> 196 curated ChatGPT Image 2.0 & nano banana prompts for fashion photography.
 
 
 ### 17.1. Woman with Tom and Jerry Characters Fashion Portrait
@@ -11105,7 +11105,7 @@ A stunning photorealistic close-up features a woman modeling a dazzling silver c
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "text_to_image_photoreal_editorial_portrait",
       "version": "v1.0",
       "priority": "high"
@@ -11609,7 +11609,7 @@ A sophisticated woman in a black satin slip dress with a high slit poses elegant
 {
   "generation_request": {
     "meta_data": {
-      "tool": "NanoBanana Pro",
+      "tool": "ChatGPT Image 2.0 & NanoBanana Pro",
       "task_type": "text_to_image_photoreal_double_exposure_editorial",
       "version": "v1.0",
       "priority": "high"
@@ -13807,7 +13807,7 @@ His reflection is visible beside him, complementing the modern urban backdrop of
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have an awesome Nano Banana prompt:
+Contributions are welcome! If you have an awesome ChatGPT Image 2.0 & Nano Banana prompt:
 
 1. Fork this repository
 2. Add your prompt in the correct category
@@ -13816,7 +13816,7 @@ Contributions are welcome! If you have an awesome Nano Banana prompt:
 
 Please ensure prompts are:
 - Original or properly attributed
-- Tested and working with Nano Banana
+- Tested and working with ChatGPT Image 2.0 & Nano Banana
 - Include an example image if possible
 
 ## ⭐ Star History
